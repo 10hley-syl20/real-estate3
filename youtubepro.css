@@ -181,6 +181,16 @@ hr.light100{
     padding: 1.2rem;
 }
 
+#fixed{
+    background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+     height: 600px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;}
+ figure {
+      margin: 0;
+   }
 }
 
 
@@ -219,4 +229,15 @@ display-4{
     font-size:2em;
     padding: .7rem;
 }
+    
+#fixed{
+    background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+     height: 600px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;}
+ figure {
+      margin: 0;
+   }
 }
