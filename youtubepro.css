@@ -134,6 +134,7 @@ hr.light100{
 
 .phone{
     color:#d5d5d5 !important;
+    text-decoration:none;
 }
     
 
@@ -190,8 +191,8 @@ hr.light100{
      height: 400px;
      background-repeat: no-repeat;
 /*      background-attachment: fixed; */
-     background-position: center;
-     background-size: cover;}
+/*      background-position: center;
+     background-size: cover;*/} 
  figure {
       margin: 0;
    }
@@ -239,8 +240,8 @@ display-4{
     height:300px;
      background-repeat: no-repeat;
 /*      background-attachment: fixed; */
-     background-position: center;
-     background-size: cover;}
+/*     background-position: center;
+     background-size: cover;   */           }  
  figure {
       margin: 0;
    }
