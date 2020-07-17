@@ -185,17 +185,8 @@ hr.light100{
     font-size:2.5em;
     padding: 1.2rem;
 }
-/* 
-#fixed{
-    background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
-     height: 400px;
-     background-repeat: no-repeat;
-     background-attachment: fixed; 
-      margin:0;
-     background-size: cover;} 
- figure {
-      margin: 0;
-   } */
+
+    #fixed{display:none;}
 }
 
 
@@ -235,5 +226,5 @@ display-4{
     padding: .7rem;
 }
     
-    #fixed{display:none;}
+ #fixed{display:none;}
 }
