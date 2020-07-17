@@ -132,6 +132,10 @@ hr.light100{
     margin-bottom:1rem;
 }
 
+.phone{
+    color:#d5d5d5 !important;
+}
+    
 
 #fixed{
     background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
@@ -185,7 +189,7 @@ hr.light100{
     background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
      height: 400px;
      background-repeat: no-repeat;
-     background-attachment: fixed;
+/*      background-attachment: fixed; */
      background-position: center;
      background-size: cover;}
  figure {
@@ -234,7 +238,7 @@ display-4{
     background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
     height:300px;
      background-repeat: no-repeat;
-     background-attachment: fixed;
+/*      background-attachment: fixed; */
      background-position: center;
      background-size: cover;}
  figure {
