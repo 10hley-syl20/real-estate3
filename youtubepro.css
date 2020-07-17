@@ -190,9 +190,9 @@ hr.light100{
     background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
      height: 400px;
      background-repeat: no-repeat;
-/*      background-attachment: fixed; */
-/*      background-position: center;
-     background-size: cover;*/} 
+     background-attachment: fixed; 
+      margin:0;
+     background-size: cover;} 
  figure {
       margin: 0;
    }
@@ -238,10 +238,11 @@ display-4{
 #fixed{
     background-image: url('https://images.unsplash.com/photo-1490085964525-79c2e1236eca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
     height:300px;
+    margin:0;
      background-repeat: no-repeat;
-/*      background-attachment: fixed; */
-/*     background-position: center;
-     background-size: cover;   */           }  
+     background-attachment: fixed; 
+    margin:0;
+     background-size: cover;             }  
  figure {
       margin: 0;
    }
